@@ -94,13 +94,13 @@
 
             <repository>
               <id>nexus</id>
-              <name>Train-ticket</name>
+              <name>Train-ticket-Release</name>
               <url>http:http://13.201.65.9:8081/repository/train-ticket-release/</url>
             </repository>
 
             <snapshotRepository>
               <id>nexus</id>
-              <name>KK FUNDA Snapshot Nexus Repository </name>
+              <name>Train-ticket-Snapshot</name>
               <url>http:http://13.201.65.9:8081/repository/train-ticket-snapshot/</url>
             </snapshotRepository>
     </distributionManagement>
