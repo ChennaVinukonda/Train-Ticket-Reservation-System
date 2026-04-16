@@ -91,17 +91,15 @@
 		</dependency>
 	</dependencies>
 	<distributionManagement>
-
             <repository>
               <id>nexus</id>
               <name>Train-ticket-Release</name>
-              <url>http:http://13.201.65.9:8081/repository/train-ticket-release/</url>
+              <url>http://13.201.65.9:8081/repository/train-ticket-release/</url>
             </repository>
-
             <snapshotRepository>
               <id>nexus</id>
               <name>Train-ticket-Snapshot</name>
-              <url>http:http://13.201.65.9:8081/repository/train-ticket-snapshot/</url>
+              <url>http://13.201.65.9:8081/repository/train-ticket-snapshot/</url>
             </snapshotRepository>
     </distributionManagement>
 </project>
